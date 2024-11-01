@@ -1,0 +1,5 @@
+--SnackFour
+
+SELECT *
+FROM SKU_DATA
+WHERE SKU LIKE '%2%';
